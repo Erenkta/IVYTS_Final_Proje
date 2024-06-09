@@ -1,0 +1,3 @@
+https://youtu.be/uEq4D_CH06c
+
+Projeyi detaylı olarak incelemek için lütfen machine_learning_car_price_prediciton.ipynb dosyasındaki Python kodumuza göz atın. Kodu doğru çalıştırmak için lütfen hem C# hem de Python kodunda yerel veritabanınıza bağlayın

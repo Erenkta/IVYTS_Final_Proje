@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\IVYTS_Final_Proje.Blazor.Server.props" />
+</Project>

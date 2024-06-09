@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\IVYTS_Final_Proje\IVYTS_Final_Proje.Module\bin\Debug\net8.0\IVYTS_Final_Proje.Module.deps.json
+C:\Users\USER\Desktop\IVYTS_Final_Proje\IVYTS_Final_Proje.Module\bin\Debug\net8.0\IVYTS_Final_Proje.Module.dll
+C:\Users\USER\Desktop\IVYTS_Final_Proje\IVYTS_Final_Proje.Module\bin\Debug\net8.0\IVYTS_Final_Proje.Module.pdb
+C:\Users\USER\Desktop\IVYTS_Final_Proje\IVYTS_Final_Proje.Module\obj\Debug\net8.0\IVYTS_Final_Proje.Module.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\IVYTS_Final_Proje\IVYTS_Final_Proje.Module\obj\Debug\net8.0\IVYTS_Final_Proje.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\IVYTS_Final_Proje\IVYTS_Final_Proje.Module\obj\Debug\net8.0\IVYTS_Final_Proje.Module.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\IVYTS_Final_Proje\IVYTS_Final_Proje.Module\obj\Debug\net8.0\IVYTS_Final_Proje.Module.AssemblyInfo.cs
+C:\Users\USER\Desktop\IVYTS_Final_Proje\IVYTS_Final_Proje.Module\obj\Debug\net8.0\IVYTS_Final_Proje.Module.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\IVYTS_Final_Proje\IVYTS_Final_Proje.Module\obj\Debug\net8.0\IVYTS_Final_Proje.Module.dll
+C:\Users\USER\Desktop\IVYTS_Final_Proje\IVYTS_Final_Proje.Module\obj\Debug\net8.0\refint\IVYTS_Final_Proje.Module.dll
+C:\Users\USER\Desktop\IVYTS_Final_Proje\IVYTS_Final_Proje.Module\obj\Debug\net8.0\IVYTS_Final_Proje.Module.pdb
+C:\Users\USER\Desktop\IVYTS_Final_Proje\IVYTS_Final_Proje.Module\obj\Debug\net8.0\ref\IVYTS_Final_Proje.Module.dll
+C:\Users\USER\Desktop\IVYTS_Final_Proje\IVYTS_Final_Proje.Module\bin\Debug\net8.0\IVYTS_Final_Proje.Module.runtimeconfig.json
+C:\Users\USER\Desktop\IVYTS_Final_Proje\IVYTS_Final_Proje.Module\obj\Debug\net8.0\IVYTS_Final_Proje.Module.genruntimeconfig.cache
